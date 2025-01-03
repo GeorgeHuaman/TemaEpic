@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "E:\\Proyectos\\TemaEpic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98936041-2017-2621-76F7-AA6DDB18F028}|NewAssembly.csproj|e:\\proyectos\\temaepic\\assets\\scripts\\changeskybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98936041-2017-2621-76F7-AA6DDB18F028}|NewAssembly.csproj|e:\\proyectos\\temaepic\\assets\\scripts\\imageuiactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98936041-2017-2621-76F7-AA6DDB18F028}|NewAssembly.csproj|solutionrelative:assets\\scripts\\imageuiactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98936041-2017-2621-76F7-AA6DDB18F028}|NewAssembly.csproj|E:\\Proyectos\\TemaEpic\\assets\\scripts\\imageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98936041-2017-2621-76F7-AA6DDB18F028}|NewAssembly.csproj|solutionrelative:assets\\scripts\\imageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98936041-2017-2621-76F7-AA6DDB18F028}|NewAssembly.csproj|E:\\Proyectos\\TemaEpic\\assets\\scripts\\changeskybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98936041-2017-2621-76F7-AA6DDB18F028}|NewAssembly.csproj|solutionrelative:assets\\scripts\\changeskybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ImageUiActive.cs",
+              "DocumentMoniker": "E:\\Proyectos\\TemaEpic\\Assets\\Scripts\\ImageUiActive.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ImageUiActive.cs",
+              "ToolTip": "E:\\Proyectos\\TemaEpic\\Assets\\Scripts\\ImageUiActive.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ImageUiActive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:40:07.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageUi.cs",
+              "DocumentMoniker": "E:\\Proyectos\\TemaEpic\\Assets\\Scripts\\ImageUi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ImageUi.cs",
+              "ToolTip": "E:\\Proyectos\\TemaEpic\\Assets\\Scripts\\ImageUi.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ImageUi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:11:26.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ChangeSkybox.cs",
               "DocumentMoniker": "E:\\Proyectos\\TemaEpic\\Assets\\Scripts\\ChangeSkybox.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeSkybox.cs",
@@ -26,8 +60,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ChangeSkybox.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T22:23:55.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T22:23:55.631Z"
             }
           ]
         }
