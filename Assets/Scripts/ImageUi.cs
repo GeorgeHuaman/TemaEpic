@@ -6,6 +6,13 @@ public class ImageUi : MonoBehaviour
 {
     public List<Images> images = new List<Images>();
 
+    private void Start()
+    {
+        foreach (Images image in images)
+        {
+            image.name = image.imageUi.name;
+        }
+    }
     public void OpenWordUi(string name)
     {
         foreach (Images image in images)

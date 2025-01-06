@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ImageUiActive : MonoBehaviour
 {
-    public GameObject imageWorld;
+    [HideInInspector]public GameObject imageWorld;
     float timer;
     void Update()
     {
