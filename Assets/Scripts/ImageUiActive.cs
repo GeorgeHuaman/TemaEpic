@@ -23,7 +23,7 @@ public class ImageUiActive : MonoBehaviour
             }
 
             Debug.Log(Vector3.Distance(SpatialBridge.actorService.localActor.avatar.position, imageWorld.transform.position));
-            if (Vector3.Distance(SpatialBridge.actorService.localActor.avatar.position, imageWorld.transform.position) >= 6f)
+            if (Vector3.Distance(SpatialBridge.actorService.localActor.avatar.position, imageWorld.transform.position) >= 8f)
             {
                 gameObject.SetActive(false);
                 timer = 0;
