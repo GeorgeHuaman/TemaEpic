@@ -21,7 +21,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 210,
+          "DockedWidth": 149,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -52,7 +52,7 @@
           ]
         },
         {
-          "DockedWidth": 190,
+          "DockedWidth": 251,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -63,7 +63,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\ImageUiActive.cs",
               "ToolTip": "E:\\Proyectos\\TemaEpic\\Assets\\Scripts\\ImageUiActive.cs",
               "RelativeToolTip": "Assets\\Scripts\\ImageUiActive.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAApwBgAAAB+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAApwBsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T21:40:07.245Z",
               "EditorCaption": ""
