@@ -1745,7 +1745,7 @@ RectTransform:
   m_Children:
   - {fileID: 1360912153}
   m_Father: {fileID: 401353507}
-  m_RootOrder: 17
+  m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -4215,12 +4215,12 @@ PrefabInstance:
     - target: {fileID: 5445072513547283443, guid: 2f8c7a376efb252488f72c488aa2a71b,
         type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5445072513547283447, guid: 2f8c7a376efb252488f72c488aa2a71b,
         type: 3}
       propertyPath: m_Name
-      value: Tema 10 Genuine
+      value: Cartel 1 Tema 10
       objectReference: {fileID: 0}
     - target: {fileID: 5445072513547283447, guid: 2f8c7a376efb252488f72c488aa2a71b,
         type: 3}
@@ -4262,6 +4262,11 @@ PrefabInstance:
       propertyPath: images.Array.data[33].imageWorld
       value: 
       objectReference: {fileID: 1779432183}
+    - target: {fileID: 5445072514542845075, guid: 2f8c7a376efb252488f72c488aa2a71b,
+        type: 3}
+      propertyPath: m_Name
+      value: Cartel 1 Tema 10
+      objectReference: {fileID: 0}
     - target: {fileID: 5518084886898876893, guid: 2f8c7a376efb252488f72c488aa2a71b,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -7363,7 +7368,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 865331978}
-  m_RootOrder: 18
+  m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: -124.515, z: 0}
 --- !u!114 &1779432185
 MonoBehaviour:
@@ -8203,7 +8208,7 @@ RectTransform:
   m_Children:
   - {fileID: 1003858369}
   m_Father: {fileID: 401353507}
-  m_RootOrder: 18
+  m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -8515,7 +8520,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 865331978}
-  m_RootOrder: 17
+  m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!114 &2060682597
 MonoBehaviour:
